@@ -1,0 +1,12 @@
+GROQ_API_KEY=<groq_api_key>
+TAVILY_API_KEY=<tavily_api_key>
+IPC_JSON_PATH=C:\Users\dipra\Downloads\AI LEGAL DOC. ANALYSIS\ai-legal-assistant-crewai-main\data\ipc_data.json
+PERSIST_DIRECTORY_PATH=C:\Users\dipra\Downloads\AI LEGAL DOC. ANALYSIS\ai-legal-assistant-crewai-main\vectorstore
+IPC_COLLECTION_NAME=ipc_sections
+
+
+
+# example values
+# IPC_JSON_PATH="D:/work/2_yt_pycharm/code_prep/ai-legal-assistant-crewai/ipc.json"
+# PERSIST_DIRECTORY_PATH="D:/work/2_yt_pycharm/code_prep/ai-legal-assistant-crewai/chroma_vectordb"
+# IPC_COLLECTION_NAME="ipc_collection"
